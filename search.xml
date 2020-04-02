@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test_mysite</title>
+    <title>hexo学习</title>
     <url>/2020/04/02/test-mysite/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h3 id="发文章"><a href="#发文章" class="headerlink" title="发文章"></a>发文章</h3><figure class="highlight actionscript"><table><tr><td class="code"><pre><span class="line">hexo <span class="keyword">new</span> aaa</span><br></pre></td></tr></table></figure>
+<p>文章位于source/_posts文件夹中</p>
+<h3 id="草稿箱"><a href="#草稿箱" class="headerlink" title="草稿箱"></a>草稿箱</h3><figure class="highlight haxe"><table><tr><td class="code"><pre><span class="line">hexo <span class="keyword">new</span> <span class="type">draft</span> bbb</span><br></pre></td></tr></table></figure>
+<p>文章位于source/_drafts文件夹中<br>###发布草稿</p>
+<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">hexo publish bbb</span></span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>hhh</category>
+        <category>hexo</category>
       </categories>
       <tags>
-        <tag>test</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
 </search>
